@@ -3,7 +3,7 @@
 # BY AMBREEN ABDUL RAHEEM
 # SUPERVISED BY SIR IMRAN BASHIR
 ## Pakistan NGO Fraud Detection Dataset
-###📘 Overview
+### 📘 Overview
 This dataset represents financial and operational data collected from multiple Non-Governmental Organizations (NGOs) operating across Pakistan.
 The primary objective of this dataset is to analyze and detect fraudulent activities in NGO project funding and expense reporting.
 
@@ -15,7 +15,7 @@ It can be used to identify suspicious trends, detect anomalies, and build machin
 Column Name	Description
 
 - Date:	Date when the project application or transaction was recorded.
-- Applicant_Name:	Name of the person or representative submitting the application.
+- Applicant_Name:	Name of the person or representative applying.
 - NGO_Name:	Registered name of the NGO involved in the project.
 - City_Town_Village:	Geographical area where the NGO operates or the project takes place.
 - Project_Name:	Title or description of the project submitted for funding.
@@ -23,7 +23,7 @@ Column Name	Description
 - Legitimate_Estimate_PKR:	The legitimate or auditor-approved estimate of required funding.
 - Fraud_Type:	Indicates whether the project is approved or fraudulent and what kind of fraud occurred.
 - Fraud_Indicator:	Qualitative description of audit findings or irregularities.
-Population_Census_Record	Official population data of the area (for demographic comparison).
+- Population_Census_Record: Official population data of the area (for demographic comparison).
 - Invoice_ID:	Unique identifier for the submitted invoice.
 - Vendor_Name:	The vendor or supplier linked with project purchases or reimbursements.
 - Bank_Reference_No:	Transaction or reference number associated with NGO's funding transfer.
@@ -32,6 +32,7 @@ Population_Census_Record	Official population data of the area (for demographic c
 - Implied_Fraud_Ratio:	Computed ratio that estimates the scale of fraud relative to project size.
 
 🎯 Purpose of Analysis
+
 This dataset is designed to help data analysts, auditors, and government agencies identify fraud patterns and high-risk NGOs or vendors.
 The key goals include:
 
